@@ -1,18 +1,12 @@
-- text: Website
-  url: https://www.google.com/
-  icon: globe
-- text: GitHub
-  url: https://github.com/
-  icon: github
-- text: Twitter
-  url: https://www.twitter.com/
-  icon: twitter
+- text: Talia's Tutoring
+  url: https://taliastutoring.com/
+  icon: calculator
+- text: Money Moves for Teens Podcast
+  url: https://pglevy.github.io/mm4t-site/
+  icon: mic
+- text: HEY World Blog
+  url: https://world.hey.com/talia
+  icon: journal
 - text: LinkedIn
   url: https://www.linkedin.com/
   icon: linkedin
-- text: Facebook
-  url: https://www.facebook.com/
-  icon: facebook
-- text: Instagram
-  url: https://www.instagram.com/
-  icon: instagram
