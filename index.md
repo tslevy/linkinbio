@@ -5,4 +5,4 @@ avatar-alt-text: "This is a description of what my avatar looks like for people 
 interest-prefix: "My interests:"
 ---
 
-I'm awesome.
+I’m awesome.
