@@ -1,8 +1,8 @@
 ---
 avatar-name: "Talia Levy"
 avatar-url: "assets/img/gituub image.jpg"
-avatar-alt-text: "This is a description of what my avatar looks like for people who can't see it."
+avatar-alt-text: "An image of Talia Levy"
 interest-prefix: "My interests:"
 ---
 
-I'm awesome.
+A 16-year-old girl who's reading 16 self-help books at a time.
