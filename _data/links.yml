@@ -1,4 +1,4 @@
-- text: HEY World Blog
+- text: Self-Development Blog
   url: https://world.hey.com/talia
   icon: journal
 - text: Talia’s Tutoring
@@ -7,6 +7,9 @@
 - text: Money Moves for Teens Podcast
   url: https://pglevy.github.io/mm4t-site/
   icon: mic
+- text: Currently Reading
+  url: https://www.goodreads.com/user/show/46911146-talia-levy
+  icon: book
 - text: LinkedIn
-  url: https://www.linkedin.com/
+  url: https://www.linkedin.com/in/talia-levy-240958284/
   icon: linkedin
