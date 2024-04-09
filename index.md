@@ -5,4 +5,4 @@ avatar-alt-text: "An image of Talia Levy"
 interest-prefix: "My interests:"
 ---
 
-17-year-old minimalist who loves to talk to people.
+Admitted undergrad at St. John's College interested in marketing and entrepreneurship.
