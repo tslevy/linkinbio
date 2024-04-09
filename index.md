@@ -1,6 +1,6 @@
 ---
 avatar-name: "Talia Levy"
-avatar-url: "assets/img/take 3.PNG"
+avatar-url: "assets/img/talia pfp.jpg"
 avatar-alt-text: "An image of Talia Levy"
 interest-prefix: "My interests:"
 ---
