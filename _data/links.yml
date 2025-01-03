@@ -1,18 +1,18 @@
+- text: LinkedIn
+  url: https://www.linkedin.com/in/tslevy/
+  icon: linkedin
 - text: Tutoring Startup Kit
   url: https://sites.google.com/view/talias-tutoring-startup-kit/home
   icon: box
-- text: Self-Development Blog
-  url: https://world.hey.com/talia
-  icon: journal
 - text: Talia’s Tutoring
   url: https://tslevy.github.io/talias-tutoring/
   icon: calculator
 - text: Money Moves for Teens Podcast
   url: https://pglevy.github.io/mm4t-site/
   icon: mic
+- text: Self-Development Blog
+  url: https://world.hey.com/talia
+  icon: journal
 - text: Currently Reading
   url: https://www.goodreads.com/user/show/46911146-talia-levy
   icon: book
-- text: LinkedIn
-  url: https://www.linkedin.com/in/tslevy/
-  icon: linkedin
